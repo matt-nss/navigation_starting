@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'package:url_strategy/url_strategy.dart';
 
+import 'about_web.dart';
+import 'home_web.dart';
 import 'routes.dart';
 
 void main() {
@@ -17,6 +19,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // routes: {
       //   '/': (_) => HomeWeb(),
+      //
       //   '/about': (_) => AboutWeb(
       //         text: "Paulina Knop",
       //       ),

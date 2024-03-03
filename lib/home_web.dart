@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'about_web.dart';
+
 class HomeWeb extends StatefulWidget {
   const HomeWeb({Key? key}) : super(key: key);
 
